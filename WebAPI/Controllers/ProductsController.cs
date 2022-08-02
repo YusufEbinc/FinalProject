@@ -29,6 +29,8 @@ namespace WebAPI.Controllers
         public List<Product> Get()
         {
          
+
+
             var result = _productService.GetAll();
             return result.Data;
         }
