@@ -1,0 +1,17 @@
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Bussiness.deps.json
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Bussiness.dll
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Bussiness.pdb
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.csproj.CopyComplete
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.dll
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\obj\Debug\netcoreapp3.1\Bussiness.pdb
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\yusuf\source\repos\FinalProject\Bussiness\bin\Debug\netcoreapp3.1\Core.pdb
