@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1X8JvF6TBsqJjVsGNY1lIBldWEz98yAJhnRCiLRgu0CA31YCpvL2JFymuqK+uoX/3Q8rCDFyZ+QsfoOhgmvxZg==",
+  "dgSpecHash": "jMd5idZ38r7xFMU9TqBxxq1KWHdK+Aw8yrNRAmhchhn9+cz2ON0vEr7qO0Vs4pJNQlyydX+arusGFbwunGXK2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\yusuf\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\yusuf\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
