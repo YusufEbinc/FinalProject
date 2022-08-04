@@ -30,10 +30,10 @@ namespace WebAPI
 
             //AOP
             //Autofac ,castlewinder,structerMap,lightjecti dryInject ----> Ioc Container
-            services.AddControllersWithViews();
+            //services.AddControllersWithViews();
             services.AddControllers();
-            services.AddSingleton<IProductService, ProductManager>();
-            services.AddSingleton<IProductDal, EfProductDal>();
+            //services.AddSingleton<IProductService, ProductManager>();
+            //services.AddSingleton<IProductDal, EfProductDal>();
 
         }
 

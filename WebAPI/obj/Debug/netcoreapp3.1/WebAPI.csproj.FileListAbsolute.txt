@@ -83,3 +83,7 @@ C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Bussines
 C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Bussiness.pdb
 C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\yusuf\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
